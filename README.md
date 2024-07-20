@@ -31,6 +31,7 @@ Both Configuration should be enable to work this Demo
 Your DHCP Option set will take 
 
 domain-name: dipendrasaini.com
+
 domain-name-servers: AmazonProvidedDNS
 
 
