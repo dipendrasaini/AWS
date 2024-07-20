@@ -8,5 +8,5 @@ AWS DEMOS
 
   DOMAIN-NAME = DIPENDRASAINI.INTERNAL
 
-  name-server = <IP of DNS Server >
+  name-server = IP of DNS Server 
   
